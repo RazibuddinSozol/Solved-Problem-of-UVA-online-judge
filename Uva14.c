@@ -1,3 +1,5 @@
+// Lt is not accepted by UVA judge
+
 #include <stdio.h>
 #include <string.h>
 int main()
