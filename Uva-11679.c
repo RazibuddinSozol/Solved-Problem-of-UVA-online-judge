@@ -1,4 +1,4 @@
-//Wrong_Answer_of _this_code.
+//It is not accepted by UVA judge
 #include<stdio.h>
 int main()
 {
